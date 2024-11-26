@@ -7,7 +7,7 @@ class Habitacion {
 
     public Habitacion(int numero) {
         this.numero = numero;
-        this.disponible = true; // Por defecto, las habitaciones están disponibles
+        this.disponible = true; 
     }
 
     public int getNumero() {
